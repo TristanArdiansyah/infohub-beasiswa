@@ -6,7 +6,7 @@ export default function ChatPage() {
   return (
     <div className="relative w-full min-h-screen">
       <Image
-        src="/assets/detail-alumni-bg.PNG"
+        src="/assets/detail-alumni-bg.png"
         alt="Latar Belakang Detail Alumni"
         className="absolute inset-0 w-full h-full blur-xs object-cover z-0 brightness-40"
         fill={true}

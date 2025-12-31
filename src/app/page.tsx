@@ -8,7 +8,7 @@ export default function Home() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/assets/detail-alumni-bg.PNG"
+          src="/assets/detail-alumni-bg.png"
           alt="Latar Belakang Detail Alumni"
           className="h-full w-full object-cover brightness-[0.3] blur-sm"
           fill={true}
